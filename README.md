@@ -1,2 +1,2 @@
-# Juex_Le_Pendule
-Devoir Maison Classe de Terminale Le Pendul
+# Jeux_Du_Pendu
+Devoir Maison Classe de Terminale Jeu Du Pendu
